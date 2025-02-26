@@ -1,8 +1,14 @@
+body{
+    background-color: rgb(199, 209, 199);
+    justify-items: center;
+    margin: 400px;
+}
 #art {
     display: table;
     border-spacing: 0px;
     background-color: white;
     border: 5px solid black;
+    
   }
   .row {
     display: table-row;
